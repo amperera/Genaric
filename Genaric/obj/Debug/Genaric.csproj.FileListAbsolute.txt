@@ -1,0 +1,6 @@
+c:\users\amilaperera\documents\visual studio 2013\Projects\Genaric\Genaric\bin\Debug\Genaric.exe.config
+c:\users\amilaperera\documents\visual studio 2013\Projects\Genaric\Genaric\obj\Debug\Genaric.csprojResolveAssemblyReference.cache
+C:\Users\Amilaperera\documents\visual studio 2013\Projects\Genaric\Genaric\bin\Debug\Genaric.exe
+C:\Users\Amilaperera\documents\visual studio 2013\Projects\Genaric\Genaric\bin\Debug\Genaric.pdb
+C:\Users\Amilaperera\documents\visual studio 2013\Projects\Genaric\Genaric\obj\Debug\Genaric.exe
+C:\Users\Amilaperera\documents\visual studio 2013\Projects\Genaric\Genaric\obj\Debug\Genaric.pdb
